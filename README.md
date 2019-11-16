@@ -4,4 +4,4 @@ This repository contains exercises of the neuefische Data Science Bootcamp (Octo
 - regularizartion: lasso and ridge
 - principal component analysis (PCA)
 - naive Bayes algorithm
-- random forest (from scratch)
+- random forest
